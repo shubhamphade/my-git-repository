@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is fine feature1 branch
+=======
+this my 3rd line
+>>>>>>> 5794d4948ab98b26c8215e2dbc7531d7f19d957d
